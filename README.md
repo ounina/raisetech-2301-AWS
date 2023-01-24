@@ -15,16 +15,3 @@ git config --global --list
 3　Windows 11に GitHubdesktopインストール
 　GitHubdesktopダウンロード
 　Windows (64bit)
-4  GitとPowerShell設定
-　powershell管理員身分開く
-　下記のコマンド実行
-　①Get-ExecutionPolicy　なら
-　RemoteSigned→設定される
-　なかった場合、下記のコマンド実行
-　②Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force
-5　Posh-gitインストール
-　①Install-Module posh-git -Scope CurrentUser -Force
-　②Import-Module posh-git
-　③Add-PoshGitToProfile -AllHosts
-　
-
