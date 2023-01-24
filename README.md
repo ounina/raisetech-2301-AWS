@@ -27,4 +27,4 @@ git config --global --list
 　②Import-Module posh-git
 　③Add-PoshGitToProfile -AllHosts
 　
-　設定完成
+
