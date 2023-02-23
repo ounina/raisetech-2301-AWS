@@ -17,14 +17,14 @@
 ### DB サーバーについて調べてみましょう。
 - （database Server）DBサーバ（データベースサーバ）とは、データを一元管理し、データの検索、更新、保存、バックアップを行うサーバのことです。Web3層構造のWebシステムでは最下層に位置し、APサーバからの要求に基づきデータの検索やデータの更新（追加、修正、削除）を行っています。
 - mysql  Ver 8.0.32 for Linux on x86_64 (MySQL Community Server - GPL)
-![image3](./images/mysql ver.png)
+![image2](./images/mysql ver.png)
 ### DB サーバーを終了させた場合、引き続きアクセスできますか？
 - できないです。
 ### Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 - bundler
 ### Rails 起動（不思議なことなぜかシャンインマスカットと山竹の画像が出ていない）
-![image2](./images/listing fruits.png)
-![image3](./images/fruits.png)
+![image3](./images/listing fruits.png)
+![image4](./images/fruits.png)
 ### 今回の課題から学んだことを報告してください。
 - 毎日1時間勉強しようと思いましたが、ついに夜中1時半2時半になってしまいました。何日かかってしまって、やっと課題が提出できるようになりました。
 could9でアプリケーションの起動とインストールの流れについて、いい勉強になりました。
