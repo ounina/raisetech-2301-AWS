@@ -9,7 +9,7 @@
 ### AP サーバーの名前とバージョンを確認してみましょう。
 - Puma version: 5.6.5　 
 - Rails 7.0.4 application starting in development
-image.png
+![image1](./images/puma.png)
 ### AP サーバーを終了させた場合、引き続きアクセスできますか？結果を確認して、また AP サーバーを起動してください。
 - sudo service mysql stop できないです。
 - No application seems to be running here!
