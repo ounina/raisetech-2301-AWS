@@ -5,7 +5,6 @@
 - アプリケーションサーバーとはRubyやPHP、Javaなどで構築されたプログラムを動かすサーバーのことです。
 - 複数のユーザーで利用するWebアプリケーションでは、プログラムを動作させるサーバーが必要になってきます。
 - この時、実際にプログラムを動作させるサーバーをアプリケーションサーバーと言います。
-- 
 ### AP サーバーの名前とバージョンを確認してみましょう。
 - Puma version: 5.6.5　 
 - Rails 7.0.4 application starting in development
@@ -17,13 +16,13 @@
 ### DB サーバーについて調べてみましょう。
 - （database Server）DBサーバ（データベースサーバ）とは、データを一元管理し、データの検索、更新、保存、バックアップを行うサーバのことです。Web3層構造のWebシステムでは最下層に位置し、APサーバからの要求に基づきデータの検索やデータの更新（追加、修正、削除）を行っています。
 - mysql  Ver 8.0.32 for Linux on x86_64 (MySQL Community Server - GPL)
-![image2](./images/mysql ver.png)
+![image2](./images/mysqlver.png)
 ### DB サーバーを終了させた場合、引き続きアクセスできますか？
 - できないです。
 ### Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 - bundler
 ### Rails 起動（不思議なことなぜかシャンインマスカットと山竹の画像が出ていない）
-![image3](./images/listing fruits.png)
+![image3](./images/listingfruits.png)
 ![image4](./images/fruits.png)
 ### 今回の課題から学んだことを報告してください。
 - 毎日1時間勉強しようと思いましたが、ついに夜中1時半2時半になってしまいました。何日かかってしまって、やっと課題が提出できるようになりました。
@@ -34,7 +33,7 @@ could9でアプリケーションの起動とインストールの流れにつ�
 ### 通信について
 - JSON XML
 ### HTTP メソッド
-*** GET POST
+## GET POST
 - GET: 情報を取得したい時に利用します。
 - POST:情報の登録・更新などを行いたい時に利用します。
 ### HTML(HyperTextMarkup Language)
